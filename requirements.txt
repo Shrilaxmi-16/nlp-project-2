@@ -4,3 +4,12 @@ numpy
 pandas
 plotly
 joblib
+sklearn
+scipy
+scikit-learn
+matplotlib
+seaborn
+bokeh
+pillow
+opencv-python
+jupyter
