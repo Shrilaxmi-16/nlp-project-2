@@ -9,7 +9,4 @@ scipy
 scikit-learn
 matplotlib
 seaborn
-bokeh
-pillow
-opencv-python
 jupyter
